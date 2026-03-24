@@ -1,5 +1,6 @@
 # my local folders, which may contain sensitive information such as credentials, local state, and settings
 __local__*/
+__pages__*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
