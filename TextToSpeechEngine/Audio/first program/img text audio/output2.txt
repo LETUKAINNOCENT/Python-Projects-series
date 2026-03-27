@@ -15,7 +15,6 @@ Second, to consider how the importance and relevance of an economic indicator
 changes, depending on where we are in the economic cycle.
 Third and finally, to explore their relationship to market expectations, once the
 data has been released.
-
 Chapter Sixteen
 Economic Indicators Explained
 Prepare for bad times and you will only know good times.
@@ -33,7 +32,6 @@ Second, to consider how the importance and relevance of an economic indicator
 changes, depending on where we are in the economic cycle.
 Third and finally, to explore their relationship to market expectations, once the
 data has been released.
-
 First and foremost, an economic indicator is simply an economic statistic based
 on data which indicates how well or how badly an economy is performing. Based
 on this release, the market and policy makers then decide how it is likely to per-
@@ -59,7 +57,6 @@ leading, lagging and coincident.
 Leading indicators are those that signal a change to the economy, before it
 happens and are therefore the most useful. They give us strong clues as to the
 future direction for the economy particularly on interest rates and inflation.
-
 Two examples from this group would be building permits and consumer
 sentiment.
 
@@ -86,7 +83,6 @@ In the last few years, as the financial crisis has enveloped the globe, interest
 rates, by and large, have all fallen to ultra low levels and some into negative
 territory, and as such have become of relatively low interest to the market as a
 whole. The reason for this is with inflation threatening to roll over into deflation,
-
 the prospect of any change to interest rates in the short, or even medium term, is
 almost nil.
 
@@ -112,7 +108,6 @@ For example, as the economy moves from late recession and into early ex-
 pansion, this is when inflation data begins to take on an increasingly important
 role, along with the number of jobs created and data concerning output and
 production.
-
 By contrast, interest rates begin to take on increasing importance as the econ-
 omy moves from early expansion into late expansion, with inflation related data
 now dominating the releases as the markets become increasingly concerned
@@ -138,7 +133,6 @@ For example, if the news is good, but not as good as the forecast, a currency
 may weaken, and similarly if the news is bad, but not as bad as expected, the
 currency may rise. This is a fact of forex trading and something we all have to
 accept.
-
 It doesn’t matter if a forecast is right or wrong. Nor does it matter where the fore-
 cast came from. All economic releases have a forecast attached, and the market
 will judge the data against this forecast and react accordingly.
@@ -164,7 +158,6 @@ ment of Labor, which one might imagine to be an august and trustworthy body.
 However, like most statistical offices who issue economic data, they are part
 
 of the government, and as such, run by civil servants. Civil servants who are no
-
 doubt keen on developing their careers and therefore likely to do as they are told
 by their lords and masters, namely the politicians. Politicians who, unsurprisingly,
 are also only interested in themselves, their re-election or a future career in high
@@ -188,7 +181,6 @@ However, the true figure is actually more than double this figure at almost 20%,
 but the government figure is intentionally crafted to underestimate the actual
 unemployment rates, which would shock the public and ensure the politicians of
 the day were never re-elected.
-
 The unemployment figures are massaged in a very simple way. First, the data is
 collected by conducting a small survey. It's small because it is simply too expen-
 sive to do it in any other way. Second, the survey only includes people who are
@@ -214,7 +206,6 @@ a statistical model for the births and deaths of companies and it has been con-
 structed in such a way as to over estimate the number of jobs created when a
 new company starts up. Furthermore, the data does not then subtract the num-
 ber of employees who lose their jobs, when a company ceases trading or goes
-
 out of business. It is only the jobs created by new company start ups which form
 the basis of the ‘monthly jobs created’ release and this data simply gives the
 number who have entered the jobs market each month.
@@ -237,7 +228,6 @@ used to gauge inflation will change all the time, as will the basis of measureme
 Economic indicators and indices will come and go as governments find increas-
 ingly confusing and elaborate ways to baffle the public, safe in the knowledge the
 financial markets have little time to absorb or analyse the data in any detail.
-
 Moreover, many of the numbers reported are subsequently revised or corrected
 and brought up to date with the latest figures, but these are rarely reported and
 never mentioned in the financial press. You will see this pattern a great deal once
@@ -263,7 +253,6 @@ blindly accept the data as fact is dangerous in the extreme.
 Your success will depend on independent thinking. Never take anything at face
 value, particularly if it involves information from a government body where politi-
 cians are involved.
-
 The question to ask yourself is this? What is the game plan? For example, why is
 the US dollar and US economy managed by a banking cartel? And whose inter-
 ests are being protected and advanced?
@@ -288,7 +277,6 @@ Some indicators are extremely important whilst others are less so. Therefore, |
 have tried to rank them in order of importance as well. As you will appreciate it
 is very difficult to cover every indicator for every country. Fortunately, some are
 ‘generic’, such as GDP which makes things easier.
-
 However, a GDP figure from China, the US, Japan or a top ten country, is always
 going to carry substantially more weight in the market than the equivalent num-
 ber from a smaller economic power. In other words, an important number from a
@@ -314,7 +302,6 @@ recognised, so their data ranks alongside that of the US.
 Bond auctions are also important as they reveal underlying issues with sovereign
 debt, particularly in Europe. A further example of the economic cycle changing
 over time.
-
 Two final points before we move on. First, when considering any release, always
 check the historical data which appears to the right of the release on the Forex
 Factory calendar, using the chart graphic. This will display the last twelve or eigh-
@@ -340,7 +327,6 @@ to provide a snapshot of the economy in one simple number.
 GDP is widely used by virtually every bank and government as a key indicator.
 Governments will base their tax and spending plans on this figure. It is a figure
 which is closely watched by all the central banks, the IMF and the World Bank.
-
 Central banks and governments also use this data as a benchmark for where the
 economy is heading.
 
@@ -364,7 +350,6 @@ which produces income for the company or country.
 Expenditure measures what everyone buys, you, me, the government, business
 etc., and again covers everything, but also includes the value of exports minus
 imports.
-
 The income method measures and calculates the income generated in terms of
 profits and wages.
 
@@ -390,7 +375,6 @@ world, take the following approach, releasing the GDP data in three phases.
 The first phase is often called ‘preliminary’ and based on the simplest approach
 to calculating GDP, namely using the output data, which is a rough and ready
 guide. This is the release which generally causes most volatility in the market.
-
 Some weeks later, a revised GDP figure is released using a more rigorous
 approach based on expenditure, before finally after a month or two, the final GDP
 figure is published.
@@ -414,7 +398,6 @@ the economy. Second, how does the number relate to market expectation. Is it
 better than expected, worse then expected or in line with market expectation?
 Third, we need to see the trend for the data and consider the following. Is the
 economy growing steadily or perhaps too fast? Is the economy shrinking? Is
-
 the number a blip in a recent trend or could it be the first sign of a change in the
 economy? Is it much as expected and simply a continuation of the trend?
 
@@ -439,7 +422,6 @@ If the GPD data is positive, in line with expectation, and generally in line wit
 the current trend for the release, this should not surprise the markets. But, if
 better than expected, this is normally good news for the currency which should
 strengthen as a result.
-
 Of the three GDP releases, the one that has the most impact is normally the first
 as it is ‘fresh news’ and can therefore surprise the markets, particularly the forex
 market. The second release is simply a revised version of the first, so is much
@@ -465,7 +447,6 @@ The CPI (Consumer Price Index), is another key economic indicator and measure
 of inflation and, just like GDP, one that is watched by all central banks and gov-
 ernments for signs as to the level of inflation in the economy, and is therefore a
 guide to future interest rates.
-
 In simple terms the CPI is an economic indicator which attempts to show the
 changes in consumer prices over a given period, and all governments measure
 these in their own idiosyncratic way.
@@ -494,7 +475,6 @@ services which are then divided up into eight broad categories as follows:
 The above list also includes some taxes, but ignores others. Each item in the
 basket is then weighted according to its importance and finally prices are aver-
 aged, based on this weighting. Just like any other index, such as an equity index,
-
 CPI is calculated using a base number, generally 100, fixed at a point back in
 time, which is used as the reference point for all future calculations.
 
@@ -519,7 +499,6 @@ makers consider more relevant.
 
 So, when the CPI data is released, it normally comes in two versions, CPI and
 core CPI, of which core CPI is the one to watch.
-
 Third, the CPI number is released as a percentage and not as an index number,
 so if it appears as 0.5% percent this means prices have risen 0.5% since the last
 release.
@@ -544,7 +523,6 @@ Conversely, if consumer prices are falling, the question is whether we entering
 
 a recessionary period with falling interest rates which would be negative for the
 currency, and generally weaken as a result.
-
 The next step is to check to see how the CPI fits into the overall trend against
 previous releases, and provided the number is in step, this too is a good sign.
 Finally, we check the number against market expectation to see whether it is bet-
@@ -570,7 +548,6 @@ which are excluded from the CPI data.
 
 Therefore, if you are trading the British pound the number to watch is always the
 CPI release, as the RPI number is always higher.
-
 Again, and as you might expect, CPI data is considered a lagging indicator.
 Employment Data
 
@@ -593,7 +570,6 @@ significance as a result.
 
 Finally, jobs are the backbone of any economy and being the largest in the world
 the release takes on an increased significance, affecting as it does not only the
-
 US market but also the remainder of the world. As the saying goes, when Amer-
 ica sneezes, the rest of the world catches a cold.
 
@@ -620,7 +596,6 @@ percentage, and as always we need to compare this against the forecast. Is it
 better or worse than expected or in line with expectations? Like all markets, the
 forex markets does not like surprises, so any dramatic change can create very
 strong moves in the US dollar.
-
 Then we need to see how the numbers fit with the previous month’s data,
 whether it is better or worse and also whether it is following the longer term trend
 over the last six to twelve months. If the headline rate in unemployment is falling,
@@ -646,7 +621,6 @@ number of jobs lost in the previous month.
 
 However, once again these numbers have to be judged against the forecast and
 the longer term trend so they can be put into context.
-
 These are the two numbers that receive the most attention from the media and
 which are widely reported. However, beneath these two headline grabbing num-
 bers there is a wealth of other data. This describes in detail how the jobs market
@@ -672,7 +646,6 @@ The excuse given for the drama, is that the headline numbers causes the knee
 jerk reaction, while the second and subsequent response follows once the un-
 derlying numbers have been considered and digested, which may or may not be
 true.
-
 The real reason is that this is one of the premier releases the interbank market
 makers use to trap traders into weak positions. For them it is just too good an
 opportunity to miss and indulge in a spot of stop hunting.
@@ -698,7 +671,6 @@ economy as demand falls.
 
 Within the report there is the option to dig down and look at market sectors.
 However, for forex traders | would suggest the above numbers are sufficient and
-
 my top four within the NFP release. If you do have the time, the overtime hours
 can be an excellent indicator of future employment and likely GDP trends. Typi-
 cally, overtime tends to fluctuate between four and five hours a week on average
@@ -722,7 +694,6 @@ on the US dollar is as follows.
 
 Under ‘normal’ circumstances, a strong report should drive interest rates higher,
 if part of a longer term trend upwards, which in turn would make the US dollar
-
 more attractive to foreign investors. These investors would get a better return on
 US Treasuries in the future, something China would welcome.
 
@@ -747,7 +718,6 @@ data in the ADP is based on actual payroll figures. In other words these numbers
 should more accurately reflect the state of the employment market, as Advanced
 Data Processing runs the payroll services for so many large organisations in the
 USA.
-
 The ADP release is just one number and represents the change in the number of
 employed people during the previous month, excluding farming and public sec-
 tor jobs. As with all the other employment reports, a positive number indicates an
@@ -772,7 +742,6 @@ that may have gone bust.
 
 So both sets of data are far from perfect, but we knew that anyway. In addition,
 both sets of data are revised, sometimes weeks later.
-
 In general terms, the relationship between the two is rather shaky, and having
 compared them over the last few years, there appears to be around a sixty per
 cent correlation between the two.
@@ -796,7 +765,6 @@ To put this into context. In a recent release the ADP data reported gains of
 368,000 jobs, whilst two days later, the NFP report came in with only 107,000.
 Over the last two years there have been discrepancies of more than 200,000 on
 seven different occasions.
-
 So ADP may be saying one thing, but it cannot be relied on to be an accurate
 barometer for the more significant release two days later. Given the discrepan-
 cies why is the ADP reported at all? The simple answer is that it was introduced
@@ -824,7 +792,6 @@ with the number of people registering for unemployment falling. Conversely,
 
 if the number is worse than expected, this is usually bad for the currency as it
 suggests the economy may be running into difficulties, with the number of unem-
-
 ployed increasing as a result. As always, the number has to be considered in the
 context of the trend.
 
@@ -851,7 +818,6 @@ plethora of jobs data in three days.
 
 To summarise. My advice is to use this report as your guide to the unemployment
 levels in the economy and to watch in particular, the overall trend.
-
 There are, of course, employment indicators for other countries and currencies
 which mirror the NFP data. These are usually referred to as ‘employment change’
 and here are the examples for Canada, Australia and New Zealand.
@@ -875,7 +841,6 @@ other than this, the same analysis applies for this economic indicator.
 If jobs are being created at a steady pace and the unemployment rate is falling
 steadily, the economy is growing and interest rates are likely to rise in due
 course.
-
 Any shortfall against the forecast or a sudden and dramatic change in the longer
 term trend may surprise the market and cause a temporary pullback. However,
 as a general rule if the data is better than expected, this is generally good for the
@@ -901,7 +866,6 @@ the jobs created or lost being the two big numbers the markets watch.
 Finally, we have New Zealand in this group which uses the same terminology for
 its release, only in this case New Zealand releases its data on a quarterly basis.
 Moreover, it does not release this data for a further thirty to forty days after the
-
 end of the quarter. So, compared with other countries, the data has to be con-
 sidered a heavily lagging indicator as it is almost four months old by the time the
 numbers reach the market.
@@ -926,7 +890,6 @@ ing in the jobs market, it is far from being a comprehensive employment indicato
 as it simply measures the change in people claiming unemployment benefit.
 Therefore, the data is a simple number, either positive or negative. If it is positive,
 the number of people claiming benefits has gone up on the previous month. This
-
 is generally considered bad news for the UK economy and the British pound as it
 suggests a weak economy, low inflation and low interest rates.
 
@@ -950,7 +913,6 @@ Office website.
 
 This reporting method is odd, to say the least, and can best be described as the
 government’s attempts to manage market reaction.
-
 This may change in the future, but this is the way it is as the moment. Fur-
 thermore, the reporting mechanism is out of step with other countries and
 currencies.
@@ -977,7 +939,6 @@ over the month, whilst a negative number indicates they have fallen.
 This economic indicator is therefore a strong barometer for inflation and de-
 flation, as well as a good indicator for the broader economy. Rising wholesale
 prices suggest a strong and growing economy, provided rising prices are de-
-
 mand led. Remember they could also be supply driven. Meanwhile, falling prices
 would suggest a weak economy, with demand and inflation falling as a result
 leading to lower interest rates in due course.
@@ -1003,7 +964,6 @@ excellent companion to the equally important CPI number. This is watched even
 more closely than the PPI, because it is assumed any increase in prices within
 the PPI index will automatically be passed on to the consumer and eventually
 be reflected in the consumer price index. Therefore, if the PPI in any country is
-
 announced in advance of the CPI data, this can offer an excellent opportunity
 
 to prepare a trading position based on the PPI data. So, a release to watch very
@@ -1030,7 +990,6 @@ better, worse, or have stayed the same.
 
 In other words, the survey tries to establish if business conditions in a certain
 market have improved, declined or stayed the same over the previous month.
-
 The survey only ever has three possible answers which are, better, worse or the
 same.
 A diffusion index is calculated by taking the percentage of respondents who
@@ -1056,7 +1015,6 @@ Index = 10 + (60*0.5)+0 = 40
 The magic number for a diffusion index is 50 which is seen as the fulcrum. At this
 number the survey is balanced with no bias either way. If it were at say, 75, this
 indicates a strong bias of the sample with a 'better' response. Conversely, if it
-
 were at 40 (as in our example above) the index is indicating the survey has largely
 replied with a 'worse' response.
 
@@ -1082,7 +1040,6 @@ economy.
 
 The PMI or Purchasing Manager's Index is another key economic indicator,
 which in this case gives us clues as to the broader economy. The index is fo-
-
 cused on the manufacturing sector of the economy, and is constructed from a
 large survey of purchasing managers working in manufacturing companies.
 
@@ -1107,7 +1064,6 @@ One of the many reasons this report is so closely watched is that the Federal
 Reserve is given access to the data, prior to its release. This tells us just how
 seriously this data is taken, although some traders consider it a low level release.
 It most certainly is not.
-
 Second, the PMI in the US is released on the first business day of each month,
 so it sets the tone on how the manufacturing sector has performed over the pre-
 vious month.
@@ -1133,7 +1089,6 @@ rates.
 
 Below 50, the key number is around 42. If the release is between 42 and 50, we
 can assume whilst manufacturing may be weakening, the broader economy may
-
 still be growing, but perhaps not quite as fast as before. It could also be a pos-
 sible signal of a slow down in due course. Remember the economy is like the oil
 tanker, it takes time to slow down and speed up. The monthly PMI will reflect the
@@ -1159,7 +1114,6 @@ of the economy.
 
 The central banks of Japan, China and other leading manufacturing countries
 also use this data as a key plank of their monetary policy decision making.
-
 Therefore, it is a very important number, and one which most countries release
 monthly. It is also closely watched by the bond markets for signs of inflation or
 deflation and associated changes in interest rates.
@@ -1183,7 +1137,6 @@ decline, construction PMI and services PMI might be more important. This may
 be the case for the UK, but elsewhere in the world the PMI data is a crucial num-
 ber as it leads the way to GDP. So, please watch this report carefully and always
 check the longer term trend.
-
 For the US any reaction in the US dollar depends on the trend. For example, any
 number over 50 should see the US dollar move higher, but only if it is part of a
 consistent trend. Any number below 50 and moving towards 42 should see the
@@ -1209,7 +1162,6 @@ For yen traders the Tankan is the indicator to watch for three reasons.
 
 First, it is produced by the BOJ (Bank of Japan), and therefore carries additional
 weight as it underpins the BOJ’s thinking on the economy.
-
 Second, as Japan is such a dominant global force in manufacturing, this is a core
 release.
 
@@ -1233,7 +1185,6 @@ companies are surveyed and asked to rate the economy as better than, the same
 as, or worse than, over the preceding quarter to produce the diffusion index.
 However, in this case the fulcrum point is zero, and we therefore have both
 negative and positive numbers. So above zero is positive for the economy with a
-
 positive number, whilst below zero and a negative number, is not good news for
 the economy and longer term outlook.
 
@@ -1260,7 +1211,6 @@ monthly, and compiled from a survey of purchasing managers from manufactur-
 ing companies in the Philadelphia region of the United States. However, unlike
 the other diffusion indices we looked at earlier, this one is reported in a ‘Tankan
 style’ index. There are both positive and negative numbers, with the tipping
-
 point being zero. Anything above zero is positive suggestive of an expanding
 economy, whilst below zero and a negative number is a contracting or stagnant
 economy.
@@ -1285,7 +1235,6 @@ confirming the earlier PMI release or forecasting the next.
 The last economic indicator on the manufacturing theme is another index, Core
 Durable Goods. This release tries to measure the change in the total value of
 new orders placed with manufacturers for ‘durable goods’. These are generally
-
 considered to be those goods expected to last at least three years or more. The
 index excludes the transportation sector as this tends to distort the results.
 
@@ -1310,7 +1259,6 @@ exports.
 The Trade Balance economic indicator is another of those economic releases
 which can have a significant impact on a country’s currency. Furthermore, it is
 also a universal indicator which you will find reported around the globe, generally
-
 on a monthly or quarterly basis. It is one of those big numbers in every sense of
 the word.
 However, what is a Trade Balance and what is the likely impact of such a release
@@ -1334,7 +1282,6 @@ reduce the deficit. More exports generally means lower unemployment. In theory,
 when a country is importing heavily it is not creating employment, so changes in
 the trade deficit can reveal what is going on in the economy. In particular, if the
 country in question moves from being a net exporter to a net importer.
-
 This is an issue that has come to the fore during this financial crisis and is the
 prime feature in competitive devaluation. Or, what the press call ‘currency wars’
 or ‘the race to the bottom’.
@@ -1358,7 +1305,6 @@ which could in turn cause the currency to weaken.
 Therefore, the Trade Balance Figures can give us an insight into the potential
 demand for the domestic currency, particularly where we see longer term trends
 changing from positive to negative, or vice versa.
-
 In summary, the Trade Balance Figures can also give traders a valuable view on
 the economy of a particular country. Many countries with strong export markets,
 such as Japan, Germany, and China will always have a trade surplus.
@@ -1383,7 +1329,6 @@ significant impact on the Australian dollar, since this would not only be a shoc
 but also signal an economy in trouble, with reduced demand for the currency as
 a result. This has occurred several times in recent years and in 2015 hit a record
 low of - 4214AUD million, before recovering into positive territory with a record
-
 high in 2016 of 4510 AUD million. Huge swings and reflected in the Australian
 dollar as you might expect.
 
@@ -1409,7 +1354,6 @@ Furthermore, countries with a consistently strong trade surplus will usually see
 their currencies strengthen as the currency is in demand by overseas buyers
 
 of their exports. Conversely, countries who run a trade deficit which may be
-
 increasing, are likely to see their currency weaken, relative to other currencies,
 since it will not be in such great demand.
 
@@ -1436,7 +1380,6 @@ This is what has happened during this financial crisis, so any economic indicato
 which measures consumer spending is a key measure. As the names suggests
 Core Retail Sales and Retail Sales measure the spending of consumers at the re-
 tail level and the difference between the two is quite simple. Retail sales includes
-
 all consumer spending, whilst Core Retail Sales excludes the sales of cars, since
 this can represent a large percentage of consumer spending, and being a volatile
 sector, can also distort the numbers.
@@ -1461,7 +1404,6 @@ GDP release which usually follows this economic release.
 A further reason this release is significant, particularly the core figure, is that once
 again, like many of these economic indicators, it is one of the numbers used by
 governments and central banks to formulate both economic and fiscal policy,
-
 revealing as its does consumer spending patterns and therefore the health of the
 economy.
 
@@ -1486,7 +1428,6 @@ halt, stop and fall into recession, with all the implications on interest rates,
 flow and currencies as a result. Please watch these numbers carefully. They are
 not just another number. They are the key numbers for consumer spending in
 every country around the world.
-
 Housing Data
 
 The next data set is one related to housing, of which there are several each
@@ -1512,7 +1453,6 @@ nancial services to white goods feeling the effect.
 
 So, the housing sector is a strong sentiment indicator. But, what really keeps
 housing and housing data so far ahead of the economy is the sensitivity of the
-
 market to changes in interest rates. After all, this is the pinch point that hits con-
 sumers first. When interest rates rise or fall, this is normally reflected very quickly
 as residential mortgage rates change rapidly, either increasing or decreasing
@@ -1537,7 +1477,6 @@ The first indicator in our tranche of housing data is the New Home Sales,
 released monthly in the US market. It is generally considered to be a leading indi-
 cator of the housing sector, providing as it does, information on new homes sold
 in the period.
-
 However, before considering this release in detail | just want to explain a little
 about housing data in general terms, because it is so influential and can have a
 dramatic effect on a currency when released.
@@ -1562,7 +1501,6 @@ Astrong housing market also tells us about consumer confidence, which in
 turn is all about jobs. If people feel secure in their job, demand for houses will
 increase with a consequent increase in house prices which continues to fuel
 spending, so is a cyclical event.
-
 However, problems start when it all comes to a shuddering halt, as witnessed
 with the sub prime mortgage débacle which was the catalyst for the current
 global recession, from which we are now emerging.
@@ -1588,7 +1526,6 @@ If the above figures are correct, New Home Sales should be a good indicator of
 economic growth in the future, and an equally good indicator of any slow down in
 the economy since the basis of the data is on the sales contract not on the con-
 struction itself.
-
 When consumers are confident, the trend will be rising along with the economy,
 and when consumers are worried the trend will be falling. In simple terms, we
 don’t need to see house prices necessarily rising to have a strong economy.
@@ -1613,7 +1550,6 @@ for the broader economy.
 US Pending Home Sales
 
 The second of our housing economic indicators in the US is Pending Home
-
 Sales, which in this case is prepared and released by the National Association
 of Realtors, and is published on a monthly basis for the US market. This release
 generally appears towards the end of each month.
@@ -1637,7 +1573,6 @@ Home Sales are leading indicators of the economy.
 However, of the two | would suggest New Home Sales is probably more impor-
 tant since this encompasses the construction industry and all the ancillary ser-
 vices that are part and parcel of house building.
-
 After all, activity in the existing home market can often be stimulated by cheap
 money. Furthermore, activity in the new homes market also reflects corporate
 activity from major house builders and developers, as these companies are un-
@@ -1664,7 +1599,6 @@ significance and impact on the economy. After all, they also generate jobs,
 
 The effects of housing data on any currency are relatively muted and, as a
 general rule, should be viewed as longer term indicators of changes in underlying
-
 economic trends, and signs of potential reversals from boom to bust and back
 again.
 
@@ -1691,7 +1625,6 @@ a strong economy with a boom in house construction.
 
 Therefore, a great leading indicator of the longer term economic outlook. If this
 number is falling or is weak, clearly the economic outlook is weak and it is not
-
 good news for the currency, as a result. If the number is strong with a positive
 trend upwards this is an excellent signal and on release, the currency should
 strengthen as a result.
@@ -1715,7 +1648,6 @@ ture which is generally negative for the currency.
 
 Asudden change can also surprise the markets although they will generally re-
 vert back to the trend once the news release is over.
-
 In Canada, the Housing Starts are the equivalent to the US New Homes Sales.
 This figure represents the number of new residential houses started in the
 previous month. Once again this figure is reported in an annualised format. A
@@ -1742,7 +1674,6 @@ the first step in any new house building projects.
 
 Strong growth in new approvals is an excellent guide to both the current and
 future economic outlook. Construction in housing leads the way and ripples
-
 through into many other sectors of the economy, from construction to home
 furnishings, as well as financial services, which in turn leads to strong consumer
 spending.
@@ -1767,7 +1698,6 @@ check and monitor.
 The equivalent in New Zealand is called Building Consents, and this is another
 great economic indicator of strength or weakness in the economy with construc-
 tion leading the way as building consents are approved for new build projects.
-
 Like the Australian data, the New Zealand number is released monthly, after
 month end, but takes between thirty and thirty five days to be appear. Neverthe-
 less it is another excellent guide to the underlying economy and future outlook
@@ -1793,7 +1723,6 @@ This associated housing data in the form of loans and mortgages is where the
 current financial crisis first started. It was the problems in the US sub prime mar-
 ket (high risk loans) which was the trigger. It is the fallout from these instruments
 which is still causing so many problems to the global economy.
-
 Credit bubbles and defaults are nothing new. Japan’s problems all stemmed
 from cheap money fuelling a debt and housing bubble. These same problems are
 appearing in some of the powerhouse economies with China a classic example.
@@ -1819,7 +1748,6 @@ indicator of the broader economy.
 Higher house prices nearly always suggest an expanding economy, while falling
 house prices are suggestive of an economy in contraction. House prices can
 therefore be a good early indicator of inflationary pressure which could lead
-
 the Bank of England to raise interest rates in order to ensure inflation is kept in
 check.
 
@@ -1844,7 +1772,6 @@ jobs market and any agreement with the EU.
 
 However, once a recovery gets under way, this report and others reporting house
 prices and lending will increase in importance, in much the same way as interest
-
 rates themselves which increase and decrease in importance within the eco-
 nomic cycle.
 
@@ -1868,7 +1795,6 @@ a leading indicator and is reported as a monthly percentage change which will be
 either a negative or positive figure. As always with house prices and housing data
 it is the trend which is important and the best way to view this release is merely
 as a confirmation of the Nationwide HPI, or vice versa whichever comes first.
-
 The Home Loans Report from Australia is another key economic indicator for the
 housing market and the release reports the change in the number of new loans
 for residential properties during the month. Once again it is considered to be a
@@ -1895,7 +1821,6 @@ slowing economy and the likelihood of falling interest rates.
 Composite Indices
 
 | would now like to move on and explain a type of index known as a composite
-
 index. Earlier in this chapter we looked at data based on a diffusion index, those
 types of economic indicators which have been designed to show us potential
 turning points in the economy moving above and below a tipping point at fifty.
@@ -1919,7 +1844,6 @@ This is the first of our composite economic indicators and the reason | have
 chosen this one is that it is simply one of the most important. Having said that,
 like all economic releases their impact will vary according to where we are in the
 broad economic cycle.
-
 The CB Consumer Confidence Index is released by a private non profit making
 company called the Conference Board on a monthly basis in the US. This is a
 company that specialises in a range of business data for members, and with
@@ -1945,7 +1869,6 @@ The survey is derived from a survey of over five thousand households and is
 designed to determine the financial health, spending power and confidence of
 the average American consumer. In essence, the survey aims to discover how
 consumers feel about jobs, the economy and spending.
-
 These responses are compiled and translated into a single figure which is re-
 leased as the index figure of the month. When the American consumer is feeling
 ultra confident about the future and happy to spend, the index is likely to rise well
@@ -1969,7 +1892,6 @@ giving a reading in the mid fifties or low sixties but trending up, and in the p
 have seen highs of well over a hundred, we can assume the economy is recover-
 ing, but has a long way to go. In this scenario, interest rates are unlikely to rise in
 the short term.
-
 Conversely, once the index reaches an extreme, this can signal the end of a
 growth phase in the economy with interest rates high and likely to fall as the
 economy and consumer spending slowing, as a result. An economy in boom, but
@@ -1995,7 +1917,6 @@ Second, and perhaps more importantly, there is always an ongoing debate about
 the accuracy and relevancy of such indices. Indeed, when two similar reports are
 released, they often vary enormously. The reason for this is survey respondents
 vary in lifestyle and income, so surveys place different emphasis on certain ques-
-
 tions. Finally, survey groups are often quite small, which also begs the question
 of why anyone would want to be in a survey anyway? Do surveys attract a certain
 type of person with a certain type of character? This leads to the issue of bias, so
@@ -2021,7 +1942,6 @@ The report is prepared by the University of Michigan and has been around since
 around five hundred, so is a tenth the size of the more significant CB Consumer
 Index which is based on around five thousand. However, many market experts
 believe the UoM is a more accurate predictor of sentiment than the CB index.
-
 The reason for this is the sampling method used by the index which is based on
 a rotating system whereby every month 60% of survey respondents are new,
 whilst only 40% are included twice. The UoM also carries the label of being pro-
@@ -2045,7 +1965,6 @@ If the number is better than expected, we should see the dollar strengthen on th
 news, provided this is in a rising trend and in line with the trend. Conversely, if
 the index comes in worse than expected, the dollar should fall, particularly if the
 trend is lower.
-
 Moving to Europe and here the most important economic indicators are those
 which relate to Germany. Not only does Germany sit at the heart of Europe, but
 its industrial strength and strong export driven economy is currently propping up
@@ -2071,7 +1990,6 @@ Europe. So, a key number which always moves the Euro.
 The IFO indicator is released monthly and the survey encompasses businesses
 across the entire market and business sector, including manufacturers, whole-
 salers and retailers, so is thoroughly representative.
-
 In the survey, respondents are asked to rate the outlook for their businesses over
 the next six months, so is an excellent guide to the future of the economy. This is
 the reason why it is considered to be a leading indicator and therefore carefully
@@ -2097,7 +2015,6 @@ However, one of the main problems for the ECB is in trying to keep inflation
 under control by raising interest rates, they do not strengthen the Euro as a result
 and choke off the German export machine. An export machine which is so critical
 to the European project, and to the survival of the Euro, overall.
-
 This factor is always an ongoing problem for the ECB. However, it should also be
 noted Germany is one of the few countries in the world which has always wel-
 comed a strong currency.
@@ -2122,7 +2039,6 @@ of the European economy.
 
 France is the only other country with sufficient mass of both population and
 economy to have an effect on the Euro or ECB economic policy.
-
 The German IFO release is one of the most anticipated pieces of economic data
 to be released in Europe, as the German economy is seen as the bellwether for
 the rest of the EU. One of the reasons this release is so keenly awaited is the
@@ -2147,7 +2063,6 @@ tive or negative number.
 
 In the case of this indicator the tipping point is zero (not 50), and the reason this
 economic indicator is so important for the Swiss franc is twofold.
-
 First, it is prepared and released by the KOF, an economic research establish-
 ment in Switzerland. Second, it is relied on heavily by the Swiss National Bank in
 decisions on economic policy, so it is an important indicator.
@@ -2171,7 +2086,6 @@ on a survey of both institutional investors and analysts. The survey covers all
 areas of the economy including exchange rates, stock markets and inflation.
 Like the IFO, this is a highly respected indicator, as the index is prepared and
 released by the centre for European Economic Research and is based on a large
-
 sample of over three hundred and fifty respondents. The respondents are asked
 to rate the economy and their outlook for the next six months.
 
@@ -2197,7 +2111,6 @@ the Euro, traders are at the mercy of the ECB and its political masters.
 Moving back to the US and to a curious economic indicator known as the TIC
 long term purchases. The relationship this economic indicator has with the US
 dollar is not straightforward. At times, it can spark a strong reaction, while at
-
 others the release passes by unnoticed as the markets wait for the next item of
 news. Despite this behaviour it is still considered a tier one or red flag item of
 news on the economic calendar.
@@ -2222,7 +2135,6 @@ ing on whether there has been more overseas buying from US investors, or from
 overseas investors buying in the US. Generally however, this number is positive
 as there are usually more investors buying US dollars than selling, but negative
 numbers have been recorded from time to time.
-
 Therefore, the headline number presented in the release, such as +140.5 billion
 is the value of US dollar assets bought by overseas investors during the month.
 A positive number, signals more capital is coming into the country than is flowing
@@ -2246,7 +2158,6 @@ is positive and high, this should see the dollar strengthen, whilst a weaker fig
 may see the dollar decline. However, this is a difficult indicator to read as it lacks
 any consistent and logical market reaction. Part of the reason for this lies in the
 balance and make up of the various overseas investors.
-
 The report actually distinguishes between the various types of buyers of US
 assets and whether they are governments and financial organisations, or private
 investors. Of course, some of the largest overseas investors are The People’s
@@ -2272,7 +2183,6 @@ like to stress the following.
 
 First, although | have focused on the US markets, every country around the world
 will have its own releases, which will follow the same principles and have the
-
 same reaction in the market, and my purpose here has been to give you the in-
 sights into the various types of releases, and their associated market reaction.
 Although this can then be applied to other regions around the world, do bear
@@ -2298,7 +2208,6 @@ in the next few years, as the recovery begins in earnest, interest in the bond a
 tions will wane with market focus moving away from sovereign debt and back to
 interest rates and more ‘mainstream’ economic data. Data which has been the
 mainstay in the past few decades.
-
 New Zealand
 
 In this section | want to mention some of the more important economic indicators
@@ -2323,7 +2232,6 @@ proximately minus 60 and plus 60, above and below the fulcrum.
 
 As a highly respected release it is therefore considered to be a leading indicator
 of the New Zealand economy and also a release closely watched by the Reserve
-
 Bank of New Zealand as part of their decision making process for monetary
 policy.
 
@@ -2348,7 +2256,6 @@ the economy and of future interest rates. Strangely this indicator only appears
 eleven times a year as it is not released in January. As always, it is the trend that
 matters, with a better then expected number helping to lift the New Zealand dol-
 lar in an up trend and to weaken it if the number is bad and in a down trend.
-
 The Labor Cost Index is another from New Zealand, released quarterly by
 Statistics New Zealand, a government body. This index is designed to measure
 changes in the cost of labor and is therefore a key measure of inflation in the
@@ -2373,7 +2280,6 @@ The Inflation Expectation economic indicator is a relatively new addition to
 indicators for the New Zealand economy, and important for two reasons. First,
 it is a survey conducted and released by the central bank, the Reserve Bank of
 New Zealand so carries a great deal of weight in the market. Second, it is a key
-
 measure of inflation, which the bank itself uses as part of its own monetary policy
 decision making.
 
@@ -2399,7 +2305,6 @@ Second Tier
 So far in this chapter | have focused primarily on tier one or ‘red flag’ economic
 indicators, but there are also many second tier releases which can and do move
 markets. These too can be useful to us as forex traders and here the one | want
-
 to start with is from Canada and is the BOC (Bank of Canada) Business Outlook
 Survey.
 
@@ -2424,7 +2329,6 @@ whether the company plans to increase or decrease staff numbers, along with
 their views on likely changes in both input and output prices as well as inflation.
 The information is then displayed on the BOC web site as soon as the report is
 compiled.
-
 The results are displayed either in the diffusion index format with zero represent-
 ing the change from positive to negative sentiment, or as simple histograms or
 bar charts as in the composite index format.
@@ -2450,7 +2354,6 @@ the tidal wave of economic data and releases which arrive each day.
 This is why housing is so important because it represents what is going on in
 everyday life and can therefore tell us more about the economy than complicated
 dry statistics.
-
 The ANZ Job Advertisement report is another such indicator and it is very
 straightforward. It is premised on the fact if the number of jobs advertised is
 rising, the economy is in a growth phase. Conversely, if the number of jobs ad-
@@ -2474,7 +2377,6 @@ ments are a key measure of economic confidence and activity, and the indicator
 is reported as a simple percentage change on a quarterly basis. So a strong
 number in a rising trend, which comes in better than expected is likely to be
 good news for the Australian dollar which should strengthen as a result. A strong
-
 number is suggesting economic activity and therefore higher interest rates in due
 course.
 
@@ -2501,7 +2403,6 @@ This report is released by the National Statistics Office on a monthly basis,
 around twenty days after the month end and is delivered as a headline figure
 
 of how much has been borrowed. A positive number indicates a budget deficit,
-
 whilst a negative number indicates a budget surplus. Since the start of the finan-
 cial crisis borrowing for the UK government and other governments has been
 rising at an alarming rate, forcing spending cuts on public services in order to
@@ -2525,7 +2426,6 @@ likely to do so for some time to come.
 As we start to come to the end of this chapter | want to round off by covering
 some of the statements, comments and news flow that comes from the central
 banks, week in and week out.
-
 Virtually all of this news is classified as ‘red flag’. In other words any statement,
 comment or release from a central bank is considered important enough to move
 the markets.
@@ -2551,7 +2451,6 @@ There have even been press reports that maybe the traditional role of the centra
 banks may now be coming to an end, and that as an institution they may not
 even be around in decades to come. Given their track record in the run up to the
 financial crisis this may not be so far fetched.
-
 The best way to approach these comments, statements and releases is in the
 context of the economic indicators and the politics and how these affect the
 home currency.
@@ -2576,7 +2475,6 @@ on a fast chart as words or phrases are used. You will be amazed.
 
 In Australia, New Zealand and Canada these statements are released immedi-
 ately, whereas the Federal Reserve and the Bank of England release theirs a
-
 few days later, thereby creating another ‘red flag’ item of news as the content of
 these statements will be scoured for meaning by the markets.
 
@@ -2600,7 +2498,6 @@ usually carefully crafted to communicate particular messages to the markets.
 
 If | were asked to bracket the central banks in order of transparency, ambiguity or
 self interest | would suggest the following.
-
 The most straightforward of the central banks are Canada, Australia, New Zea-
 land and the UK. Next would come Japan who can be misleading given their self
 interest in the yen, followed by the US Federal Reserve who are highly self inter-
@@ -2625,7 +2522,6 @@ In addition to central banks muddying the waters, we also have the politicians,
 and in particular the finance ministers, who meet at both scheduled and un-
 scheduled meetings to discuss world financial affairs and generally in two forms.
 Namely the G7 and the G20.
-
 The G7 was the first to be formed and meets several times a year and includes
 France, Germany, Italy, Japan, the UK, the US and Canada. More recently, this
 was expanded to the G20 to include several of the tiger economies from the
@@ -2649,7 +2545,6 @@ Finance ministers, particularly in Europe, are also not averse to commenting on
 monetary policy when it suits them, so once again comments in print or on the TV
 are always of interest and the Euro will react accordingly. Comments which al-
 lude to the ECB will always cause a reaction.
-
 In the last few years we have also seen a plethora of bi-lateral meetings between
 finance ministers, particularly in Europe, often at short notice. These meetings
 are usually convened to deal with the latest crisis to befall the Eurozone. To date
@@ -2674,7 +2569,6 @@ judgements with reference to no-one. They have the power to create, and the
 power to destroy which they use with equal measure. They are judge, jury and
 executioner rolled into one. Their power is unlimited and frightening, and with a
 single release, they can wreak havoc in the market.
-
 Yet, all of these companies are privately owned, and worse still, paid for by the
 very banks and organisations which they are supposed to rate on an objective
 basis.
@@ -2700,7 +2594,6 @@ to make as much money for themselves in providing these ratings.
 
 Does this sound like a conflict of interest? The simple answer, of course, is that it
 is, but as always in the financial markets, when there are huge sums involved no
-
 one is going to kill the goose that lays the golden egg. Each of these companies
 makes several hundred million dollars a year in fees for their services, and their
 power and influence extends to the very top of governments, central banks and
@@ -2725,7 +2618,6 @@ In Europe, for example, Parliament was so concerned at the prospect of a pos-
 sible downgrade from one of the big three that laws were passed restricting the
 number of releases from these agencies to a maximum of three a year, and only
 after the close of the main financial markets. Other countries have followed suit
-
 and many advised their major banks and commercial organisations to do their
 own ratings assessments.
 
@@ -2751,7 +2643,6 @@ Yes, it is true to say they still have the power to move the markets, but that p
 has been dramatically reduced in the last few years. Their credibility was blown
 apart as the sub prime saga exploded. Since then, their importance has declined.
 This is not to say they can be ignored, they cannot, and for many countries, par-
-
 ticularly those in the Far East and Asia, they represent a key catalyst for growth,
 but for those developed economies, their power has been dramatically reduced,
 and for that we can all be eternally grateful. It is one less thing we have to worry
@@ -2777,7 +2668,6 @@ of the power and importance of the German economy in the Eurozone. The tier
 2 economic indicators which relate directly to Germany include the monthly Pre-
 liminary CPI numbers, the month on month unemployment changes, month on
 month factory orders, the monthly production figures, German consumer senti-
-
 ment along with German retail sales, and finally flash manufacturing PPI. ‘Flash’
 simply means ‘a quick overview’, a snapshot or the latest news.
 
@@ -2803,7 +2693,6 @@ than the equivalent German figure.
 
 In this group there are also several economic releases for Europe. These include
 the unemployment rate reported as the headline rate, industrial production fig-
-
 ures, and monthly CPI and core CPI percentages. Again this consolidated data
 will have a relatively muted effect, as it generally follows the German equivalent.
 Other releases include the GDP figures along with M3 money supply figures
@@ -2828,7 +2717,6 @@ namely the FOMC minutes.
 Finally, for the Euro what has never been made clear is why there are quite so
 many releases. However, it may simply be an attempt to portray the Eurozone as
 one, united entity hence the need for so much data.
-
 The US Dollar
 
 Among the tier 2 indicators for the US dollar the first one to note is the weekly
@@ -2854,7 +2742,6 @@ weekly, so more of an intraday trading indicator.
 
 Another economic indicator that appears in the orange tier is the quaintly named,
 Beige Book which appears eight times a year. There is divided opinion on this
-
 release with some traders believing it should be considered a tier one release,
 whilst others (myself included) believe its impact is muted. In addition, this type
 of release can often move the markets simply when there is no other news.
@@ -2880,7 +2767,6 @@ FED Chairman himself.
 
 Of the next set of orange flag indicators, namely Core PPI, Durable Goods
 Orders, Revised UoM Consumer Sentiment, the Advance GDP Price Index and
-
 the Employment Cost Index, only the last two, | believe, are deserving of a higher
 rating.
 
@@ -2905,7 +2791,6 @@ eye on consumer spending patterns for clues as to the economy and inflation.
 The headline figure is a simple percentage. If the number is positive and moving
 higher it is signalling that consumers are happy to spend and the economy is
 likely to be expanding. An expanding economy signals higher interest rates to
-
 follow and again is generally US dollar positive. If a negative number is reported
 which is also in a falling trend, expect the dollar to weaken as a result
 
@@ -2931,7 +2816,6 @@ serves a special mention.
 The report itself does not always appear as scheduled in the economic calendar.
 This is because it is subject to heavy, last minute revisions so the release date
 and time can be a movable feast.
-
 However, it is worth the wait, not least because it details the views of the US
 Treasury on economic conditions, foreign exchange rates and currency manipu-
 lation around the world.
@@ -2958,7 +2842,6 @@ The same reason applies to the BOJ meeting minutes. These are released
 around a week after the interest rate decision and this is the reason they are here,
 since the minutes are unlikely to reveal any surprises for the time being. How-
 ever, at some point in the future this will change.
-
 Japan too has city specific economic indicators of which the Tokyo Core CPI
 Index is the most important. The index is the same as for the Japanese CPI Index
 and only includes consumer data from Tokyo. What is useful about this report
@@ -2985,7 +2868,6 @@ particular services purchased by businesses. The figures are released monthly
 and are considered a leading indicator. Therefore, if the actual is better than fore-
 cast this is usually good news for the yen thereby making it an essential release
 for traders involved in the carry trade, particularly in the NZD/JPY.
-
 In this group of economic indicators for the Japanese yen is a subsidiary of the
 Tankan Survey, namely the Tankan Non Manufacturing Index. This is released
 with the main Tankan Survey and is a diffusion index based on a survey from non
@@ -3012,7 +2894,6 @@ which reports the same thing, so one confirms the other. The important point
 
 to note here is how the number relates to past levels of lending, and whilst the
 number may be better than expected and suggest a pick up in demand for mort-
-
 gages, if the numbers are extremely low compared to three or four years ago,
 clearly the economy is a long way from the peak of a cycle. Therefore, always
 check against the historical data and where the lending level is in relation to the
@@ -3037,7 +2918,6 @@ In the orange group (tier two releases) there are six economic indicators to
 consider. These are, HSBC Final Manufacturing PMI, HSBC Flash Manufacturing
 PMI, New Loans, Fixed Asset Investment, Industrial Production and finally, and
 surprisingly, the PPI indicator.
-
 The first two economic indicators are prepared and released by the Hong Kong
 and Shanghai Bank, and of these the Flash Manufacturing is the more important
 as it is released first. Both indicators are diffusion based with a tipping point at
@@ -3063,7 +2943,6 @@ National Bureau of Statistics as a simple percentage, so an increase is good
 news and seen as increasing demand for base commodities and confirming eco-
 nomic growth, whilst a decrease suggests a slow down and reduction in spend-
 ing as a result.
-
 Chinese data is important but is often reported at odd times, including weekends
 so may impact any open positions. Ten years ago Chinese data rarely appeared
 on economic calendars, but now it moves markets. The same will happen as
@@ -3090,7 +2969,6 @@ sectors of the economy in terms of sales revenues.
 
 These sales indicators are all leading indicators and reported as simple percent-
 ages of change, so easy to check and monitor both on the trend and also against
-
 the release. As always, positive numbers are perceived as good news for the
 Canadian dollar, provided they fit within a rising trend.
 
@@ -3114,7 +2992,6 @@ labour costs, one of the key ingredients of inflation. Therefore, an important
 number and the reason why it has been included here. The release is reported
 as a simple percentage change and if the trend is rising with positive increases
 in wages and salaries, expect the central bank to be watching, and interest rates
-
 likely to rise as a result. Conversely, a fall is likely to signal a weak economy with
 a consequent fall in interest rates.
 
@@ -3138,7 +3015,6 @@ are fluid as central banks and their political masters use (and abuse) them in a
 effort to drive and control their economies as well as their own political ambi-
 tions. Remember also, how they are constructed does change, so always check
 for any changes in methodology or approach.
-
 Finally just to round off this chapter, let me briefly remind you of the calendars
 
 l use, namely that from https://forexfactory.com and more recently https://
@@ -3155,4 +3031,3 @@ important.
 This concludes the fundamental section of the book, and in the next few chap-
 ters we are going to look at the third and final element of my three dimensional
 approach to forex trading, namely technical analysis.
-
